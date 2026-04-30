@@ -1,0 +1,277 @@
+CHARMM General Force Field (CGenFF) program version 4.0
+released June 2024
+Copyright (C) 2020 SilcBio LLC
+and University of Maryland, School of Pharmacy. All Rights Reserved.
+
+Licensed to:
+cgenff server
+serverncgenff
+
+License expires: Tue Dec 31 00:00:00 2030
+
+readpar debug: read 683 bonds, 2501 angles, 7460 dihedrals, 203 impropers
+               and 375437 characters worth of comments.
+Now processing molecule LIG1 ...
+ringper debug: stored 6-membered ring in stage 1.
+ringper debug: stored 5-membered ring in stage 1.
+ringper debug: stored 6-membered ring in stage 1.
+ringper debug: stored 6-membered ring in stage 2.
+ringper debug: stored 5-membered ring in stage 2.
+ringper debug: added anchor for 6-membered ring in stage 2.
+ringper debug: added anchor for 5-membered ring in stage 2.
+resonance debug: found better resonance chain with
+charge 0 ( 0 positive and 0 negative centers) and 1 potential aromatic rings
+resonance debug: found better resonance chain with
+charge 0 ( 0 positive and 0 negative centers) and 1 potential aromatic rings
+resonance debug: found better resonance chain with
+charge 0 ( 0 positive and 0 negative centers) and 1 potential aromatic rings
+resonance debug: found better resonance chain with
+charge 0 ( 0 positive and 0 negative centers) and 1 potential aromatic rings
+resonance debug: found better resonance chain with
+charge 0 ( 0 positive and 0 negative centers) and 1 potential aromatic rings
+resonance debug: found better resonance chain with
+charge 0 ( 0 positive and 0 negative centers) and 1 potential aromatic rings
+resonance debug: found better resonance chain with
+charge 0 ( 0 positive and 0 negative centers) and 1 potential aromatic rings
+resonance debug: found better resonance chain with
+charge 0 ( 0 positive and 0 negative centers) and 1 potential aromatic rings
+resonance debug: found better resonance chain with
+charge 0 ( 0 positive and 0 negative centers) and 1 potential aromatic rings
+resonance debug: found better resonance chain with
+charge 0 ( 0 positive and 0 negative centers) and 1 potential aromatic rings
+resonance debug: found better resonance chain with
+charge 0 ( 0 positive and 0 negative centers) and 1 potential aromatic rings
+resonance debug: found resonance chain with
+charge 0 ( 0 positive and 0 negative centers) and 1 potential aromatic rings
+resonance debug: found better resonance chain with
+charge 0 ( 0 positive and 0 negative centers) and 1 potential aromatic rings
+resonance debug: found better resonance chain with
+charge 0 ( 0 positive and 0 negative centers) and 1 potential aromatic rings
+resonance debug: found resonance chain with
+charge 0 ( 0 positive and 0 negative centers) and 1 potential aromatic rings
+resonance debug: found perfect resonance chain with
+charge 0 ( 0 positive and 0 negative centers) and 0 potential aromatic rings
+paranalogy debug: finding analogy for dihedral NG2S1 CG2O1 CG3C51 NG2R50
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral OG2D1 CG2O1 CG3C51 NG2R50
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2O1 CG311 CG321 CG331
+paranalogy debug: finding analogy for dihedral NG2S1 CG311 CG321 CG331
+paranalogy debug: finding analogy for CG2R53 CG2R64
+paranalogy debug: finding analogy for dihedral SG311 CG2R53 CG2R64 NG2R62
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral NG2R50 CG2R53 CG2R64 NG2R62
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2R64 CG2R53 SG311 CG3C52
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral NG2R50 CG2R53 SG311 CG3C52
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2R64 CG2R53 NG2R50 CG3C51
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral SG311 CG2R53 NG2R50 CG3C51
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2R53 CG2R64 NG2R62 CG2R61
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2R64 NG2R62 CG2R61 SG311
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral NG2R62 CG2R61 SG311 CG321
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2R61 CG2R61 SG311 CG321
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2R53 SG311 CG3C52 CG3C51
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2R53 SG311 CG3C52 HGA2
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral SG311 CG3C52 CG3C51 NG2R50
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral HGA2 CG3C52 CG3C51 NG2R50
+paranalogy debug: finding analogy for CG3C51 NG2R50
+paranalogy debug: finding analogy for dihedral CG2O1 CG3C51 NG2R50 CG2R53
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG3C52 CG3C51 NG2R50 CG2R53
+paranalogy debug: finding analogy for dihedral HGA1 CG3C51 NG2R50 CG2R53
+paranalogy debug: finding analogy for dihedral CG311 CG321 SG311 CG2R61
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral HGA2 CG321 SG311 CG2R61
+paranalogy debug: finding analogy for dihedral CG321 CG321 CG321 NG321
+paranalogy debug: finding analogy for dihedral CG321 CG321 CG2O2 OG311
+paranalogy debug: finding analogy for SG311 CG2R53 CG2R64
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for NG2R50 CG2R53 CG2R64
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for NG2R50 CG2R53 SG311
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for NG2R62 CG2R64 CG2R53
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for SG311 CG2R61 NG2R62
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for CG3C52 SG311 CG2R53
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for NG2R50 CG3C51 CG2O1
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for NG2R50 CG3C51 CG3C52
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for HGA1 CG3C51 NG2R50
+paranalogy debug: finding analogy for CG3C51 NG2R50 CG2R53
+paranalogy debug: finding analogy for CG321 SG311 CG2R61
+paranalogy debug: finding analogy for dihedral CG3C51 CG2O1 NG2S1 CG311
+paranalogy debug: finding analogy for dihedral NG2S1 CG2O1 CG3C51 NG2R50
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral OG2D1 CG2O1 CG3C51 NG2R50
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG311 CG2O1 NG2S1 CG311
+paranalogy debug: finding analogy for dihedral CG311 CG2O1 NG2S1 CG311
+paranalogy debug: finding analogy for dihedral CG311 CG2O1 NG2S1 CG311
+paranalogy debug: finding analogy for dihedral CG311 CG2O1 NG2S1 CG311
+paranalogy debug: finding analogy for dihedral CG311 CG2O1 NG2S1 CG311
+paranalogy debug: finding analogy for dihedral CG311 CG2O1 NG2S1 CG311
+paranalogy debug: finding analogy for dihedral CG311 CG2O1 NG2S1 CG311
+paranalogy debug: finding analogy for dihedral CG311 CG2O1 NG2S1 CG311
+paranalogy debug: finding analogy for dihedral CG311 CG2O1 NG2S1 CG311
+paranalogy debug: finding analogy for dihedral CG2O1 CG311 CG321 CG331
+paranalogy debug: finding analogy for dihedral NG2S1 CG311 CG321 CG331
+paranalogy debug: finding analogy for dihedral NG2S1 CG311 CG2O1 NG2S2
+paranalogy debug: finding analogy for dihedral CG321 CG311 CG2O1 NG2S2
+paranalogy debug: finding analogy for CG2R53 CG2R64
+paranalogy debug: finding analogy for dihedral SG311 CG2R53 CG2R64 NG2R62
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral SG311 CG2R53 CG2R64 NG2R62
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral NG2R50 CG2R53 CG2R64 NG2R62
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral NG2R50 CG2R53 CG2R64 NG2R62
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2R64 CG2R53 SG311 CG3C52
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral NG2R50 CG2R53 SG311 CG3C52
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2R64 CG2R53 NG2R50 CG3C51
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral SG311 CG2R53 NG2R50 CG3C51
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2R53 CG2R64 NG2R62 CG2R61
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2R53 CG2R64 NG2R62 CG2R61
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2R64 NG2R62 CG2R61 SG311
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral NG2R62 CG2R61 SG311 CG321
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2R61 CG2R61 SG311 CG321
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral SG311 CG2R61 NG2R62 CG2R64
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2R61 CG2R61 SG311 CG321
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral NG2R62 CG2R61 SG311 CG321
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2R53 SG311 CG3C52 CG3C51
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2R53 SG311 CG3C52 HGA2
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG2R53 SG311 CG3C52 HGA2
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral SG311 CG3C52 CG3C51 NG2R50
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral HGA2 CG3C52 CG3C51 NG2R50
+paranalogy debug: finding analogy for dihedral HGA2 CG3C52 CG3C51 NG2R50
+paranalogy debug: finding analogy for CG3C51 NG2R50
+paranalogy debug: finding analogy for dihedral CG2O1 CG3C51 NG2R50 CG2R53
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral CG3C52 CG3C51 NG2R50 CG2R53
+paranalogy debug: finding analogy for dihedral HGA1 CG3C51 NG2R50 CG2R53
+paranalogy debug: finding analogy for dihedral CG311 CG321 SG311 CG2R61
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral HGA2 CG321 SG311 CG2R61
+paranalogy debug: finding analogy for dihedral HGA2 CG321 SG311 CG2R61
+paranalogy debug: finding analogy for dihedral CG311 CG321 SG311 CG2R61
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for dihedral HGA2 CG321 SG311 CG2R61
+paranalogy debug: finding analogy for dihedral HGA2 CG321 SG311 CG2R61
+paranalogy debug: finding analogy for dihedral CG321 CG321 CG321 NG321
+paranalogy debug: finding analogy for dihedral CG311 CG321 CG321 CG2O2
+paranalogy debug: finding analogy for dihedral CG321 CG321 CG2O2 OG311
+paranalogy debug: finding analogy for SG311 CG2R53 CG2R64
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for NG2R50 CG2R53 CG2R64
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for NG2R50 CG2R53 SG311
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for NG2R62 CG2R64 CG2R53
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for NG2R62 CG2R64 CG2R53
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for SG311 CG2R61 NG2R62
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for SG311 CG2R61 NG2R62
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for CG3C52 SG311 CG2R53
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for NG2R50 CG3C51 CG2O1
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for NG2R50 CG3C51 CG3C52
+paranalogy debug: "smart algorithm" found no matching parameters;
+switching to "exhaustive algorithm"
+paranalogy debug: finding analogy for HGA1 CG3C51 NG2R50
+paranalogy debug: finding analogy for CG3C51 NG2R50 CG2R53
+paranalogy debug: finding analogy for CG321 SG311 CG2R61
+paranalogy debug: finding analogy for CG321 SG311 CG2R61
