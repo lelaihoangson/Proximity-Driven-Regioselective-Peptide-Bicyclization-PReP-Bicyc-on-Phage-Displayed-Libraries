@@ -4,7 +4,7 @@ This repository includes the computational modelling input and scripts for our p
 
 ![Proximity-Driven-Regioselective-Peptide-Bicyclization-PReP-Bicyc-on-Phage-Displayed-Libraries](github-cover.png)
 
-To elucidate the structures of PCK1 and PCK2 macrocycles in complex with PD-1, we adopted a two-stage molecular docking approach (global docking and local docking) to previously reported structure of PD-1 (PDB ID: 3RRQ) using GNINA 1.3, followed by an extended run of Molecular Dynamics (MD) simulations utilizing GROMACS. A macrocycle PCK3 (the Abu-deprived analog of PCK2) was also included in the workflow to assess the significance of Abu in the protein-macrocycle interaction. 
+To elucidate the structures of PCK1 and PCK2 macrocycles in complex with PD-1, we adopted a two-stage molecular docking approach (global docking and local docking) to previously reported structure of PD-1 (PDB ID: 3RRQ) using [GNINA 1.3](https://github.com/gnina/gnina), followed by an extended run of Molecular Dynamics (MD) simulations utilizing [GROMACS](https://github.com/gromacs/gromacs). A macrocycle PCK3 (the Abu-deprived analog of PCK2) was also included in the workflow to assess the significance of Abu in the protein-macrocycle interaction. 
 
 The global docking was set to generate up to 100 conformations for each peptide, which were subsequently clustered into different groups based on Root-Mean-Square Deviation (RMSD) of the whole macrocycle (cut-off at 20 Å). 
 
